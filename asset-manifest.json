@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dc51242.css",
+    "main.js": "/static/js/main.6f4df42c.js",
+    "static/media/watch3.jpg": "/static/media/watch3.43497783d74997aa3876.jpg",
+    "static/media/watch1.jpg": "/static/media/watch1.e329c3b3a38c24b7cd55.jpg",
+    "static/media/laptop1.jpg": "/static/media/laptop1.a4caf34d33da31cb609b.jpg",
+    "static/media/watch2.jpg": "/static/media/watch2.2a8ce81a1a58ef19477f.jpg",
+    "static/media/iphone14.jpg": "/static/media/iphone14.d5fe7d3171f5ebd2b239.jpg",
+    "static/media/weecknd.jpg": "/static/media/weecknd.7b92093faa80e039adf1.jpg",
+    "static/media/iphone14-2.jpg": "/static/media/iphone14-2.c5423eb5d7591044f8a7.jpg",
+    "static/media/earpods.jpg": "/static/media/earpods.5e1672c5b591a0bd49e7.jpg",
+    "static/media/sin1.jpg": "/static/media/sin1.2ed7af2271e7516f75ec.jpg",
+    "static/media/apple-logo.svg": "/static/media/apple-logo.dca800f189014a3c3eab.svg",
+    "index.html": "/index.html",
+    "static/media/search-logo.svg": "/static/media/search-logo.8b1e7e91db84f878056c.svg",
+    "static/media/bag-logo.svg": "/static/media/bag-logo.41f41d59c15e30fc042c.svg",
+    "main.5dc51242.css.map": "/static/css/main.5dc51242.css.map",
+    "main.6f4df42c.js.map": "/static/js/main.6f4df42c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc51242.css",
+    "static/js/main.6f4df42c.js"
+  ]
+}
